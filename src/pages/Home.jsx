@@ -63,7 +63,7 @@ function Home() {
           </div>
 
           <img src={icon3} alt="Images Icon" />
-          <p>Images: 303</p>
+          <p>проверка верселлл</p>
         </div>
       </div>
 
