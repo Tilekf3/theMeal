@@ -72,11 +72,9 @@ function Home() {
   <Country/>
 </div>
       <div className='tamaktar'>
-        <h3>Latest Meals</h3>
+        <h3>БУКВА КОШ ДЕП АЙТКАНСЫЗ </h3>
         <div className='cards'>
           <div className='card'>
-          <img src={foto1} alt="" />
-          <p>15-minute chicken & halloumi burgers</p>
           </div>
         </div>
       </div>
